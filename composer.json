@@ -1,5 +1,5 @@
 {
-  "name": "bavix/laravel-clickhouse",
+  "name": "bkmz48/laravel-clickhouse",
   "description": "Eloquent model for ClickHouse",
   "type": "library",
   "license": "MIT",
